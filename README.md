@@ -8,7 +8,7 @@ Team Memebrs:-
 | Saketh        |       SP6322  |
 | Sanjana       |       lk2849  |
 
-
+Link to see the transformations : https://github.com/sakethreddy997/BigData-Nyu-NYPD-Complaint-Data-HistoricPublic-Safety/blob/main/Bigdata_part1.ipynb
 
 # What did we do with this data ?
 1. Data Exploration
