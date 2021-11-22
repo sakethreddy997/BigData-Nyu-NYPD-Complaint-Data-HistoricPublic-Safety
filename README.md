@@ -65,5 +65,18 @@ New York City Police Department (NYPD) from 2006 to the end of last year (2019).
     (Note: some field descriptions were taken from https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/incident_level_data_footnotes.pdf)
     
     
+### Thoughts and comments on data
+
+1. CMPLNT_Num =  check weather the column is integer or if it has any other invalid data
+2. CMPLNT_FRM_DT = Check if the year is between 2006-2019 
+3. CMPLNT_FR_TM =  Validate if the time is in 24 hour format or not
+4. CMPLNT_TO_DT = Check if the year is between 2006-2019
+5. CMPLNT_TO_TM = Check whether the time is in 24 hour format
+6. RPT_DT = Check if the year is between 2006-2019
+7. KY_CD = From the data profiling it is clear that this column does not have any kind of invalid or empty values
+8. OFNS_DESC = This field can contain empty values as well because this does not look to be a mandatory field and few descriptions tend to have same meaning but with different names , this can be addressed as part of further analysis by grouping them together and make decisions.
+PD_CD =  Check for empty values and remove them.
+CRM_ATPT_CPTD_CD =  Values present are COMPLETED , ATTEMPTED and empty values , so change the empty values field to UNKNOWN.
+LAW_CAT_CD = This Column has values , FELONY, VIOLATION, MISDEMEANOR values so Check if the offence column just consists of following mentioned offences and from profiling of data it is evident that there is no need of any tranformations as the data seems to be perfectly alright
   
    
