@@ -15,6 +15,13 @@ Team Memebrs:-
 2. Data Profiling using openclean
 3. Data Cleaning 
 
+### Overview
+
+The moto of this project is to analyse , gain insights of the data , clean the data in the  dataset.
+The dataset used (NYPDComplaint Data Historic) includes all crimes reported to the
+New York City Police Department (NYPD) from 2006 to the end of last year (2019).
+
+
 ### Field Name & Description:
 
     'CMPLNT_NUM' (int)                 Complaint Number
@@ -56,4 +63,7 @@ Team Memebrs:-
     
     
     (Note: some field descriptions were taken from https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/incident_level_data_footnotes.pdf)
+    
+    
+  
    
