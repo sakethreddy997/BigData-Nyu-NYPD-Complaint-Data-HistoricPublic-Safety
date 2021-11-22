@@ -8,3 +8,9 @@ Team Memebrs:-
 | Saketh        |       SP6322  |
 | Sanjana       |       lk2849  |
 
+
+
+# What did we do with this data ?
+1. Data Exploration
+2. Data Profiling using openclean
+3. Data Cleaning 
