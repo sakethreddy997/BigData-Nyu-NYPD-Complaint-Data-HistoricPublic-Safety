@@ -101,3 +101,8 @@ New York City Police Department (NYPD) from 2006 to the end of last year (2019).
          'PATROL BORO BKLYN SOUTH': 1095758,
          'PATROL BORO STATEN ISLAND': 343112})
 Empty values are set to UnKnown as this change will not impact much on analysis as the count is negligible when compared to total data.
+
+### few insights
+
+1. Total no. of columns - 35
+- 5 columns contain no invalid or null values.
