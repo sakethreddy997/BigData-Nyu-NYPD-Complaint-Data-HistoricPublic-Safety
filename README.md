@@ -78,5 +78,6 @@ New York City Police Department (NYPD) from 2006 to the end of last year (2019).
 9. PD_CD =  Check for empty values and remove them.
 10. CRM_ATPT_CPTD_CD =  Values present are COMPLETED , ATTEMPTED and empty values , so change the empty values field to UNKNOWN.
 11. LAW_CAT_CD = This Column has values , FELONY, VIOLATION, MISDEMEANOR values so Check if the offence column just consists of following mentioned offences and from profiling of data it is evident that there is no need of any tranformations as the data seems to be perfectly alright
-  
+12. JURIS_DESC = From data profiling it is clear that this column has the data type of string and there are no invalid or empty values , so this is perfectly alright.
+13.   
    
