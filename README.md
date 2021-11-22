@@ -56,7 +56,7 @@ New York City Police Department (NYPD) from 2006 to the end of last year (2019).
     'Longitude' (float)                Global Longitude of Location where Incident Occured
     'Lat_Lon' (str)                    'Latitude' and 'Longitude' together
     'PATROL_BORO' (str)                Patrol Borough
-    'STATION_NAME' (str)               Station Name
+    'STATION_NAME' (str)               Station NameCRM_ATPT_CPTD_CD
     'VIC_AGE_GROUP' (int)              Age Group of Victim
     'VIC_RACE' (str)                   Race of Victim
     'VIC_SEX' (str)                    Sex of Victim
@@ -79,5 +79,8 @@ New York City Police Department (NYPD) from 2006 to the end of last year (2019).
 10. CRM_ATPT_CPTD_CD =  Values present are COMPLETED , ATTEMPTED and empty values , so change the empty values field to UNKNOWN.
 11. LAW_CAT_CD = This Column has values , FELONY, VIOLATION, MISDEMEANOR values so Check if the offence column just consists of following mentioned offences and from profiling of data it is evident that there is no need of any tranformations as the data seems to be perfectly alright
 12. JURIS_DESC = From data profiling it is clear that this column has the data type of string and there are no invalid or empty values , so this is perfectly alright.
-13.   
+13.  LOC_OF_OCCUR_DESC = This column consisted of the following dicrete values in it  FRONT OF, 'REAR OF' 'OUTSIDE' 'INSIDE' 'OPPOSITE OF. and the remaining emoty values are renamed to UNKNOWN as they we were so huge in count and removing the null values would lead to loosing of valuable data.
+14. PREM_TYP_DESC : Few Empty values are present so validated them and made approriate action on them.
+15. JURISDICTION_CODE : This column seems to be least important in this data analysis part and has highest number of discripancy , by looking at the other part of project we can make a point of leaving this column as it is.
+16. 
    
