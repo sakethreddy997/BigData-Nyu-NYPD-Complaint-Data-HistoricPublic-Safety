@@ -91,3 +91,13 @@ New York City Police Department (NYPD) from 2006 to the end of last year (2019).
 22. 'SUSP_SEX', : Set the null values to UNKNOWN
 23. VIC_AGE_GROUP', 'VIC_RACE','VIC_SEX' : These columms are validated  and empty values are named as UNKNOWN as this is the best possible option to anlyse the data further
 24. TRANSIT_DISTRICT : This column has high number of empty values so cannot be used to get any insights so this channel can be ignored  further
+25.  PATROL_BORO : PATROL BORO MAN NORTH': 878987,
+         'PATROL BORO BRONX': 1600584,
+         'PATROL BORO QUEENS NORTH': 757148,
+         '': 6735,
+         'PATROL BORO MAN SOUTH': 891844,
+         'PATROL BORO BKLYN NORTH': 1092429,
+         'PATROL BORO QUEENS SOUTH': 709396,
+         'PATROL BORO BKLYN SOUTH': 1095758,
+         'PATROL BORO STATEN ISLAND': 343112})
+Empty values are set to UnKnown as this change will not impact much on analysis as the count is negligible when compared to total data.
