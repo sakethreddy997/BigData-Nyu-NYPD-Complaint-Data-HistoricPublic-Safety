@@ -82,5 +82,12 @@ New York City Police Department (NYPD) from 2006 to the end of last year (2019).
 13.  LOC_OF_OCCUR_DESC = This column consisted of the following dicrete values in it  FRONT OF, 'REAR OF' 'OUTSIDE' 'INSIDE' 'OPPOSITE OF. and the remaining emoty values are renamed to UNKNOWN as they we were so huge in count and removing the null values would lead to loosing of valuable data.
 14. PREM_TYP_DESC : Few Empty values are present so validated them and made approriate action on them.
 15. JURISDICTION_CODE : This column seems to be least important in this data analysis part and has highest number of discripancy , by looking at the other part of project we can make a point of leaving this column as it is.
-16. 
-   
+16.PARKS_NM:  The highest NULL values are present in this column and there may be null values present in this column which does not have much impact in near future.
+17. HADEVELOPT : There may be null values present in this column which does not have much impact in near future.
+18. HOUSING_PSA : There may be null values present in this column which does not have much impact in near future.
+19.  'X_COORD_CD', 'Y_COORD_CD'.Latitide , Longitude , LatLon : All these columns are representing the similar kind of the data so dropping 'X_COORD_CD', 'Y_COORD_CD' , LatLon would be a better option and which eradicates the redundancy of data.
+20. 'SUSP_AGE_GROUP', : validated the values in this column and removed the wrong values 
+21. 'SUSP_RACE', : Set the null values to UNKNOWN
+22. 'SUSP_SEX', : Set the null values to UNKNOWN
+23. VIC_AGE_GROUP', 'VIC_RACE','VIC_SEX' : These columms are validated  and empty values are named as UNKNOWN as this is the best possible option to anlyse the data further
+24. TRANSIT_DISTRICT : This column has high number of empty values so cannot be used to get any insights so this channel can be ignored  further
