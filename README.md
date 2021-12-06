@@ -106,3 +106,8 @@ Empty values are set to UnKnown as this change will not impact much on analysis 
 
 1. Total no. of columns - 35
 - 5 columns contain no invalid or null values.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ### Part 2: Data cleaning at scale
+ 
+ 
