@@ -110,4 +110,7 @@ Empty values are set to UnKnown as this change will not impact much on analysis 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
  ### Part 2: Data cleaning at scale
  
+ ## Data sets with similar fields
+ -> NYPD Arrest Data (Year to Date) - (https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc)
+ ->  
  
