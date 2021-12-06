@@ -114,7 +114,10 @@ Empty values are set to UnKnown as this change will not impact much on analysis 
  ->  NYPD Arrest Data (Year to Date) - (https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc) <br>
  ->  NYPD Shooting Incident Data (Historic) - (https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8) <br>
  ->  NYPD Complaint Map (Historic) - (https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Map-Historic-/57mv-nv28) <br>
- ->  NYPD Criminal Court Summons (Historic) - (https://data.cityofnewyork.us/Public-Safety/NYPD-Criminal-Court-Summons-Historic-/sv2w-rv3k)
- ->  NYPD B Summons (Year to Date) - (https://data.cityofnewyork.us/Public-Safety/NYPD-B-Summons-Year-to-Date-/57p3-pdcj)
- ->  NYPD YTD Criminal Summons - Summary - https://data.cityofnewyork.us/Public-Safety/NYPD-YTD-Criminal-Summons-Summary-Dashboard/6c4k-4mp6
- 
+ ->  NYPD Criminal Court Summons (Historic) - (https://data.cityofnewyork.us/Public-Safety/NYPD-Criminal-Court-Summons-Historic-/sv2w-rv3k)<br>
+ ->  NYPD B Summons (Year to Date) - (https://data.cityofnewyork.us/Public-Safety/NYPD-B-Summons-Year-to-Date-/57p3-pdcj)<br>
+ ->  NYPD YTD Criminal Summons - Summary - https://data.cityofnewyork.us/Public-Safety/NYPD-YTD-Criminal-Summons-Summary-Dashboard/6c4k-4mp6<br>
+ ->  NYPD Hate Crimes - (https://data.cityofnewyork.us/Public-Safety/NYPD-Hate-Crimes/bqiq-cu78) <br>
+ ->  NYPD Calls for Service (Year to Date) - (https://data.cityofnewyork.us/Public-Safety/NYPD-Calls-for-Service-Year-to-Date-/n2zq-pubd) <br>
+ -> NYPD Shooting Incident Data (Year To Date) - (https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Year-To-Date-/5ucz-vwe8) <br>
+ -> Motor Vehicle Collisions - Crashes (https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95) <br>
