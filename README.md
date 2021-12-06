@@ -111,8 +111,8 @@ Empty values are set to UnKnown as this change will not impact much on analysis 
  ### Part 2: Data cleaning at scale
  
  ## Data sets with similar fields
- ->  NYPD Arrest Data (Year to Date) - (https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc)
- ->  NYPD Shooting Incident Data (Historic) - (https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8)
+ ->  NYPD Arrest Data (Year to Date) - (https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc) \n
+ ->  NYPD Shooting Incident Data (Historic) - (https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8) \n
  ->  NYPD Complaint Map (Historic) - (https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Map-Historic-/57mv-nv28)
  ->  NYPD Criminal Court Summons (Historic) - (https://data.cityofnewyork.us/Public-Safety/NYPD-Criminal-Court-Summons-Historic-/sv2w-rv3k)
  ->  NYPD B Summons (Year to Date) - (https://data.cityofnewyork.us/Public-Safety/NYPD-B-Summons-Year-to-Date-/57p3-pdcj)
